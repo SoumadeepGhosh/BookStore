@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "A fascinating collection of stories to ignite your imagination.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/stack-books-with-glasses_23-2147767355.jpg",
+        "description": "Dive into a world of captivating tales with this storybook."
+    },
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "A hilarious collection of stories to brighten your day.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/yellow-book-glasses-symbolizing-laughter_23-2147747342.jpg",
+        "description": "Enjoy endless laughter with this collection of comedy stories."
+    },
+    {
+        "id": 3,
+        "name": "Sports Book",
+        "title": "An engaging read about the world of sports and athletes.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/sports-book-wooden-background_23-2148945732.jpg",
+        "description": "Explore the exciting world of sports with this detailed book."
+    },
+    {
+        "id": 4,
+        "name": "Music Book",
+        "title": "Learn about music and its impact on the world.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/music-sheet-pen-book_23-2148945721.jpg",
+        "description": "Discover the beauty of music through this comprehensive guide."
+    },
+    {
+        "id": 5,
+        "name": "Adventure Book",
+        "title": "Embark on thrilling adventures in distant lands.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/compass-map-adventure-book_23-2147732945.jpg",
+        "description": "Join exciting adventures and explore unknown territories."
+    },
+    {
+        "id": 6,
+        "name": "Science Book",
+        "title": "An in-depth exploration of scientific discoveries.",
+        "price": 10,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/science-textbook-dna-illustration_23-2147767452.jpg",
+        "description": "Learn about groundbreaking scientific discoveries and concepts."
+    },
+    {
+        "id": 7,
+        "name": "History Book",
+        "title": "A detailed journey into historical events.",
+        "price": 15,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/history-book-ancient-world-maps_23-2148747256.jpg",
+        "description": "Delve into key historical moments and their significance."
+    },
+    {
+        "id": 8,
+        "name": "Art Book",
+        "title": "A guide to understanding and creating beautiful art.",
+        "price": 12,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/colorful-paintbrushes-art-book_23-2148437294.jpg",
+        "description": "Discover artistic techniques and famous masterpieces."
+    },
+    {
+        "id": 9,
+        "name": "Coding Book",
+        "title": "A comprehensive resource for programming enthusiasts.",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/programming-book-illustration-screen_23-2148767321.jpg",
+        "description": "Master programming concepts with practical examples and exercises."
+    },
+    {
+        "id": 10,
+        "name": "Fantasy Book",
+        "title": "Escape into a magical realm of fantasy and wonder.",
+        "price": 18,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/fantasy-book-glowing-magic_23-2148537483.jpg",
+        "description": "Immerse yourself in a mystical world filled with magic and intrigue."
+    },
+    {
+        "id": 11,
+        "name": "Cooking Book",
+        "title": "A culinary guide to mastering delicious recipes.",
+        "price": 8,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/recipe-cooking-book-kitchen-tools_23-2148657843.jpg",
+        "description": "Learn the art of cooking with step-by-step guides and tips."
+    },
+    {
+        "id": 12,
+        "name": "Self-Help Book",
+        "title": "Empowering insights to enhance your personal growth.",
+        "price": 14,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/self-help-book-desk-motivation_23-2148656723.jpg",
+        "description": "Unlock your potential with advice and strategies for personal development."
+    }
+]
